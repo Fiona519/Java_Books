@@ -1,0 +1,48 @@
+﻿登陆用户
+who am I 
+who
+ls -al
+chmod u+x wkf_Dly_AtmValidateWorkNodeFcst.par
+groups
+id
+lastlog | grep infu9eri
+write infu9eri pts/6
+
+处理文件
+pwd
+cd -/cd ~
+cd vince
+cd ..
+mkdir vince1
+rmdir vince1
+touch vince.test
+rm -fr vince.test
+mv vince.test vincexie.test
+cat/more
+cp wkf_Dly_AtmValidateWorkNodeFcst.par ../
+diff wkf_Dly_AtmValidateWorkNodeFcst.par wkf_Dly_AtmValidateWorkNodeFcst01.par 
+
+文件系统
+df -h
+du -a
+fdisk /dev/mapper/vglocal-root
+
+重定向
+df -h >vincexie.test
+df -h | grep 10% | tee vince.txt
+
+进程
+ps -ef
+ps aux
+top
+kill
+
+系统资源
+free -m
+vmstat -fs
+vmstat -d
+iostat
+netstat
+
+
+
